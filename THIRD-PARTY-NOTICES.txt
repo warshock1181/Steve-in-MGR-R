@@ -1,0 +1,26 @@
+PORTABLE RUNTIME COMPONENTS
+
+CPython 3.14.8, Windows x86-64 embeddable distribution
+Copyright Python Software Foundation and contributors.
+Source/release: https://www.python.org/downloads/release/python-3148/
+The complete bundled license and third-party notices are in runtime/LICENSE.txt.
+The runtime is redistributed unchanged except for python314._pth, which sets
+isolated import paths to the package's own scripts and vendor folders.
+
+Pillow 12.3.0, Windows x86-64 CPython 3.14 wheel
+Copyright Pillow and Python Imaging Library contributors.
+Source/release: https://pypi.org/project/Pillow/12.3.0/
+The complete package license and embedded-library notices are retained under
+vendor/pillow-12.3.0.dist-info/licenses. See that directory for the MIT-CMU
+license and the notices for the wheel's bundled image codec libraries.
+
+Dependency download URLs, versions, and SHA-256 hashes are in DEPENDENCIES.json.
+All original runtime license files supplied by those distributions are retained.
+
+The mod uses local Minecraft textures and Rising asset structure/data only
+after installation, from the recipient's own copies. Those assets are not
+included in this ZIP or covered by the original-code MIT license.
+
+MGR2Blender2MGR was used to create the models, but its software is not bundled
+in this release. Its source and GPL v3 license are available upstream:
+https://github.com/Gaming-With-Portals/MGR2Blender2MGR

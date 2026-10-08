@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "version": "0.1.0-alpha",
+  "game": "Metal Gear Rising: Revengeance PC / Steam",
+  "minecraft_texture_version": "Java 1.21.11",
+  "minecraft_textures": {
+    "steve": {
+      "path": "assets/minecraft/textures/entity/player/wide/steve.png",
+      "sha256": "06628f9cef88520da742ab280a01677ce17c99717f964ed89ed791673121094c"
+    },
+    "sword": {
+      "path": "assets/minecraft/textures/item/diamond_sword.png",
+      "sha256": "5634a8cb79a70beb306210de9ec492fc2d4dc8f739372683e9882ef06bf63008"
+    },
+    "shield": {
+      "path": "assets/minecraft/textures/entity/shield_base_nopattern.png",
+      "sha256": "08aa1d4f2eebb31f657f34dfa969c801990500800eb4956ee3eb6dce73e54787"
+    }
+  },
+  "assets": [
+    {
+      "output": "GameData/pl/pl0100.dat",
+      "archive": "data000.cpk",
+      "offset": 484425728,
+      "packed_size": 547652,
+      "packed_sha256": "3e7e7783ca040ba360154bae91075f22854ee7ee5e795687ad442a233e8dedc3",
+      "original_sha256": "30420ce7b8b24f45d82268048e34621ce8a489d0dcb9b2cc4887dacdb7e058cb",
+      "installed_sha256": "51ce21c0a437630d5f8f89ce13c458a9962e8479a22c9c1697404ead8f0650f4",
+      "kind": "model"
+    },
+    {
+      "output": "GameData/pl/pl0100.dtt",
+      "archive": "data000.cpk",
+      "offset": 484974592,
+      "packed_size": 1789352,
+      "packed_sha256": "999ef1070020d273e2340d102eb1959ae4dc60f06feebd69bfc63598e079b8b3",
+      "original_sha256": "6aefff3a5db98086e9437411be157f9c533b40e7bfbfcc1fa41dbe4bfbec177f",
+      "installed_sha256": "e7e262c123e6f94ed2001b04c0425c1d52c74a647254ebdb881eb1f29a3a2945",
+      "kind": "texture"
+    },
+    {
+      "output": "GameData/pl/pl0101.dat",
+      "archive": "data000.cpk",
+      "offset": 486764544,
+      "packed_size": 127784,
+      "packed_sha256": "ebb471db837977782536e65d374f7a9f0d02581cb78da5970487737d4823450e",
+      "original_sha256": "fe0fb0807023b3bfe359df91d0bceaa3329189fa879a3981cbbea1bd184a7ba5",
+      "installed_sha256": "d9894ca515815c0ba2ca7da39b8b4951638a6e608d653e2c56415fe2a807bbc0",
+      "kind": "hide"
+    },
+    {
+      "output": "GameData/pl/pl0102.dat",
+      "archive": "data000.cpk",
+      "offset": 486893568,
+      "packed_size": 132896,
+      "packed_sha256": "751abe811144aa40346fca1618a94dc29e8f2a7ca43756319650f83aba40e78c",
+      "original_sha256": "a4c2e7811635c6c319f280a87e7ad3f7201605723058c73f2fa3aace7ad5de6a",
+      "installed_sha256": "d8176c2234bb183e71b480f5447c837d3a341199c971ff37305e6ebbfb53dd2c",
+      "kind": "model"
+    },
+    {
+      "output": "GameData/pl/pl0102.dtt",
+      "archive": "data000.cpk",
+      "offset": 487026688,
+      "packed_size": 612300,
+      "packed_sha256": "245c84209af3f7019e8c31bfc32021eb6337ac53ddcff5b22b31f10febbf903c",
+      "original_sha256": "e5731bee11969499ebcd84796cf8e2ef78637e8d298361f61b5621251e0f59b1",
+      "installed_sha256": "d0fe3a97c7ee2075f535ba2d8d95d6d66a267dfd20d8ab4cf9760a8c9f8cc038",
+      "kind": "texture"
+    },
+    {
+      "output": "GameData/pl/pl0103.dat",
+      "archive": "data000.cpk",
+      "offset": 487639040,
+      "packed_size": 2392,
+      "packed_sha256": "f8257f2022391a6863b8668dded2b43ba2cb1d7e509052a021d72581a96fe44b",
+      "original_sha256": "a1f546e06b0a73eaa7fd97e04e5758451e9ce7e2f190cd78b42c0c04bf5afe5a",
+      "installed_sha256": "7a47df0c1248b1de11a6f36569af59a6731e81c021a09a5269f18d2db9dacb89",
+      "kind": "hide"
+    },
+    {
+      "output": "GameData/pl/pl0104.dat",
+      "archive": "data000.cpk",
+      "offset": 487643136,
+      "packed_size": 8860,
+      "packed_sha256": "ec2aa39515fbc0664adc38df753fa3c7637251b4943ce720d64a2d8549a6066e",
+      "original_sha256": "6a6a29aa795b34d04b16e527c0243fb75162fddb8ea773bb1772c77003796b51",
+      "installed_sha256": "59d55acd1c0779de1c7af40b97af33e42b42d350cd06c6fd2631b381c9f532a3",
+      "kind": "hide"
+    },
+    {
+      "output": "GameData/pl/pl0106.dat",
+      "archive": "data000.cpk",
+      "offset": 487655424,
+      "packed_size": 115880,
+      "packed_sha256": "fbfae7ddf6b8df43840153a68c50e4ef5ce6023f8a967f2d70f4f4f3c2097c9c",
+      "original_sha256": "2aa4d3577a420e68803e78c5248b72890d796e95e2e1e4fd346e408308bbe8f3",
+      "installed_sha256": "ecddb26c347029f607612c7f7b59e85484c1803f208fded2291f626805722129",
+      "kind": "hide"
+    },
+    {
+      "output": "GameData/pl/pl1010.dat",
+      "archive": "data000.cpk",
+      "offset": 502657024,
+      "packed_size": 501032,
+      "packed_sha256": "2f4c660eaedcb76ed4c31a5d28ca034386d3253000b35a54002c090907b08b91",
+      "original_sha256": "138d46cf4151dc008b0326c9421008dbe29d69d49989cf00980b51f5a683d3f8",
+      "installed_sha256": "8432a0b81e396e9e653e715c8a94f4fbe6f51d2cb0105dbd1f434d0a44eb5b32",
+      "kind": "model"
+    },
+    {
+      "output": "GameData/pl/pl1010.dtt",
+      "archive": "data000.cpk",
+      "offset": 503158784,
+      "packed_size": 2897376,
+      "packed_sha256": "e71b3e9ca86c2562074924d524fe483aa3575125d30fc4b93cb8cd08c15b8fe1",
+      "original_sha256": "da25fef1b3562c1af92cfc062f6f45d878aeac759162d5092c850123faa9f663",
+      "installed_sha256": "66781d8583cdac04104894199a5fa72a8f537fc845330255447a471b7ab52b36",
+      "kind": "texture"
+    },
+    {
+      "output": "GameData/pl/pl1011.dat",
+      "archive": "data000.cpk",
+      "offset": 506056704,
+      "packed_size": 138172,
+      "packed_sha256": "1597e20d71056538f3b38eed3f9f712b711419257f17c4d2e94181119916ee28",
+      "original_sha256": "a48602b66524d5d6ec6eaf5ec1b8af148ae234f8047f21eb981ac82fb71ce0e6",
+      "installed_sha256": "8d1b3971637ad19bd7d24eca0e01d4a5c15ca9c4be878619819c197e4bde4102",
+      "kind": "hide"
+    },
+    {
+      "output": "GameData/pl/pl1012.dat",
+      "archive": "data000.cpk",
+      "offset": 506195968,
+      "packed_size": 138496,
+      "packed_sha256": "9b3eea0ad4f2acc479018ea09cd42d107953b77ca4ed80e3f53de944bd3c8bf6",
+      "original_sha256": "e594293f70d24694207fe3eb705594166d0bf2c67e366ccf68aa4f83c61ee547",
+      "installed_sha256": "9bd63cc85d1495838065d124eb382985087ed8a61636b9cfa149c584b0d3ffb1",
+      "kind": "model"
+    },
+    {
+      "output": "GameData/pl/pl1012.dtt",
+      "archive": "data000.cpk",
+      "offset": 506335232,
+      "packed_size": 362628,
+      "packed_sha256": "5c0b9318ddd1cdca34a1934aeaea9e15e39a1db1f33558c1a3d8b1a32ddd0b3e",
+      "original_sha256": "34fa5d0b2c6a16efef9865fff44ef4c199750d86cd770d4a1172a58986bca115",
+      "installed_sha256": "738d4992c3e9c5dd270e15617617ed04a29406c4c5363fa32be24a629d5d4ac6",
+      "kind": "texture"
+    },
+    {
+      "output": "GameData/pl/pl1013.dat",
+      "archive": "data000.cpk",
+      "offset": 506699776,
+      "packed_size": 68288,
+      "packed_sha256": "f604376635838faa1b363938bf7385f27745f0b020b7f0619bfd3ef585c16984",
+      "original_sha256": "c387bd1fd89f6a9c55cb28c9ac3ade5cc2fc2fd2b08e3b860f60ca10bb4cca5e",
+      "installed_sha256": "b31d1219fcc965626393521b81fc99b56f8da14dfd71832b7eebef299a365c7d",
+      "kind": "hide"
+    },
+    {
+      "output": "GameData/pl/pl1014.dat",
+      "archive": "data000.cpk",
+      "offset": 507244544,
+      "packed_size": 29976,
+      "packed_sha256": "c1219b0bc86b31aa190c097d489b157eaecb28843769a11c9c8a8775715cc48b",
+      "original_sha256": "fc814f83c3dbe4c50c8a17d5e7469bbde4288aa9c488436b63b13f1d8ee0301c",
+      "installed_sha256": "ca0770b4dcc41b7be80259959e890ea39859aff538edf33c16f118312ad9f7c1",
+      "kind": "hide"
+    },
+    {
+      "output": "GameData/pl/pl1017.dat",
+      "archive": "data000.cpk",
+      "offset": 507275264,
+      "packed_size": 111556,
+      "packed_sha256": "bcec57ca5a11cd2730c8c6f678298c3820ad5927addb885958601b965569981b",
+      "original_sha256": "2938a01a23b1e3954073e1f324b7ac6d65094a334a4bbf9fbc370f73d7775fa5",
+      "installed_sha256": "06d73e71ad2aa82f03be93dac672347d6a6930344157233dee056bb688c1dd6e",
+      "kind": "hide"
+    },
+    {
+      "output": "GameData/pl/pl1060.dat",
+      "archive": "data000.cpk",
+      "offset": 518367232,
+      "packed_size": 537704,
+      "packed_sha256": "c3a9d3a7d3c791e546f69d9a0b614e957f63fcb67710cf4b0e8e9f1042c30a85",
+      "original_sha256": "c2b4f333996ef8f0b7cf23a4a8da9a860d84377f3ca0388a055d3ff8d394e167",
+      "installed_sha256": "ce59c7be3d8d178e50d7ca47edcc44faf70fe9f33c85337be08b11c2b77bb56e",
+      "kind": "model"
+    },
+    {
+      "output": "GameData/pl/pl1060.dtt",
+      "archive": "data000.cpk",
+      "offset": 518905856,
+      "packed_size": 3014024,
+      "packed_sha256": "bf4443b8b0aa9754f7e1cc570f002b9a146db7ed5ed8435420df2cc7b7dc292e",
+      "original_sha256": "b594855a606e3a12166a2f242da614cd99759b5b8e43342e6fb4b558726edd93",
+      "installed_sha256": "f6b17239149b9911a2161b4b01175ff0688a98cfc8db51b7b107ba107af6a20b",
+      "kind": "texture"
+    },
+    {
+      "output": "GameData/pl/pl1061.dat",
+      "archive": "data000.cpk",
+      "offset": 521920512,
+      "packed_size": 90368,
+      "packed_sha256": "7980771f1f9ee52cf70d3bed69e40493d16853167479dd92eaf7d2ebef39b5d2",
+      "original_sha256": "021773b58ad041893d3a861b6e88406d7cb53e1c75d4d27773008f819831ea8b",
+      "installed_sha256": "30d44b8cf39694c4cee8089acf5ad6c2a8faa6232929af07d853a82c7b83f83d",
+      "kind": "hide"
+    },
+    {
+      "output": "GameData/pl/pl1067.dat",
+      "archive": "data000.cpk",
+      "offset": 522012672,
+      "packed_size": 111492,
+      "packed_sha256": "e37262e89e6c90c22b0786dd553a3da9066554274a1590314f6f8efc533c2517",
+      "original_sha256": "0df1f7ceef416d46c95c99b3331d28816e8993688ae0c47b97cdd49d39ce1a55",
+      "installed_sha256": "e9a74e9f9a7e509ef506134ded876f03c039454446c30dfa9ae278348a5bceed",
+      "kind": "hide"
+    },
+    {
+      "output": "GameData/pl/pl1070.dat",
+      "archive": "data000.cpk",
+      "offset": 522125312,
+      "packed_size": 180284,
+      "packed_sha256": "3c16774c5d68b3ead52e88a03c45da50d2056b4ab8f2b2498833221214e6f654",
+      "original_sha256": "077bfd5257c3b198f622688a9e9af979d167979796203de7a05f62a8d1b9095b",
+      "installed_sha256": "b9d7271a4cde8590c58274ae9ab46725049ec9d0c3133a4a85f451edfa0be402",
+      "kind": "model"
+    },
+    {
+      "output": "GameData/pl/pl1070.dtt",
+      "archive": "data000.cpk",
+      "offset": 522307584,
+      "packed_size": 1304628,
+      "packed_sha256": "cf903756390ca3c2e2baf4e1b737f75886cc6e88865ffd879ce8b51666f5bdc1",
+      "original_sha256": "25af84c29e3f4333659d3ce0cdd09e7d25b37cabb39b26a693a4b5efaa2ba38c",
+      "installed_sha256": "9c7895c0b2b9617eac60debeb51a973ec9a1cd3878a9500809607d0d80ea9be2",
+      "kind": "texture"
+    },
+    {
+      "output": "GameData/pl/pl1071.dat",
+      "archive": "data000.cpk",
+      "offset": 523614208,
+      "packed_size": 97736,
+      "packed_sha256": "63bf0e763f6f1f1c19649756b7c59cd3fb007954711d3184e6b28842bae4f277",
+      "original_sha256": "c102798f0261ac7318eacc3188b9444484042115129c2b8540a514e1df5715e9",
+      "installed_sha256": "def2e2642914dafb371465f73b9be2e71be63d72a3efcb624d11e652650590b4",
+      "kind": "hide"
+    },
+    {
+      "output": "GameData/pl/pl1077.dat",
+      "archive": "data000.cpk",
+      "offset": 523712512,
+      "packed_size": 154232,
+      "packed_sha256": "046ef49d4914382203a4ba3237c4496229fcbcb1672ca084276b53ffa2966834",
+      "original_sha256": "076e8cc735a0c3cabf7d1dbf29f7f2262755e4ce44045e9f548918045ba2ce5c",
+      "installed_sha256": "b6e1c0b7ff4c930a47eab372342623b0333f8ec96acdf937ace5cbe93237404e",
+      "kind": "hide"
+    },
+    {
+      "output": "GameData/pl/pl3005.dat",
+      "archive": "data000.cpk",
+      "offset": 551643136,
+      "packed_size": 266996,
+      "packed_sha256": "722049b8f7b9ae519d05e36c7582351af441eaf6663d30d5874772aabda47959",
+      "original_sha256": "82280833c5e74b5b3b9a4460401c15afee2a7a52002bb1325ffe9d17bde0633f",
+      "installed_sha256": "59f724e5734768e55252efb81d8d841c820a5d5ff9a2e161de715b36ee7154d5",
+      "kind": "model"
+    },
+    {
+      "output": "GameData/pl/pl3005.dtt",
+      "archive": "data000.cpk",
+      "offset": 551911424,
+      "packed_size": 241328,
+      "packed_sha256": "50aa7adfe5dc82f8d54b13546024612ac87d44f80d6e40c1c19601e7289a0264",
+      "original_sha256": "322131127e0dcf9f6eae087eee4ec95bc8dd4ec896606f716ad149dd625ab93e",
+      "installed_sha256": "7d3b0080b4875d524ffe1bccd52571c4b2a94c3cc61c140af7ddb394c0a3a252",
+      "kind": "texture"
+    }
+  ]
+}

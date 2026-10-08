@@ -1,0 +1,20 @@
+BLOCK RAIDEN 0.1.0 ALPHA - PACKAGE VALIDATION
+
+All 26 rebuilt files match the previously verified local mod SHA-256 hashes.
+
+- Initial install and reinstall reproduce all 26 files in a custom path with spaces.
+- Conflicting later mod causes uninstall to stop before changing any file.
+- Uninstall restores pre-existing files, removes only new mod files, and retains the save sentinel.
+- Mid-install write failure rolls back already-written files and restores pre-existing files.
+- Recovery accepts an interrupted operation with a mixture of restored originals and installed mod files.
+- Traversal paths are rejected.
+- Wrong game asset bytes are rejected by checksum before reconstruction.
+- Incompatible Minecraft texture bytes are rejected.
+- Python and Pillow license notices are present.
+
+The portable Python/Pillow runtime successfully rebuilt the release from
+the installed Rising archives and Minecraft Java 1.21.11 client.
+Game folders with spaces and simulated write failures were tested.
+These packaging tests did not modify the actual game installation.
+
+Full campaign, successful live sword hits, and live parries remain unverified. Cutscenes are unchanged.
